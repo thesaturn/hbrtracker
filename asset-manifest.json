@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hbrtracker/static/css/main.073c9b0a.css",
-    "main.js": "/hbrtracker/static/js/main.ed79bd22.js",
+    "main.js": "/hbrtracker/static/js/main.a8cb8070.js",
     "static/js/787.f3cecd00.chunk.js": "/hbrtracker/static/js/787.f3cecd00.chunk.js",
     "index.html": "/hbrtracker/index.html",
     "main.073c9b0a.css.map": "/hbrtracker/static/css/main.073c9b0a.css.map",
-    "main.ed79bd22.js.map": "/hbrtracker/static/js/main.ed79bd22.js.map",
+    "main.a8cb8070.js.map": "/hbrtracker/static/js/main.a8cb8070.js.map",
     "787.f3cecd00.chunk.js.map": "/hbrtracker/static/js/787.f3cecd00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ed79bd22.js"
+    "static/js/main.a8cb8070.js"
   ]
 }
